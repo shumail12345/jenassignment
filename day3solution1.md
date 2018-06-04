@@ -28,7 +28,10 @@ Choose Job type as MavenProject
 Provide git repository 
 
 https://github.com/OpsTree/ContinuousIntegration 
+
+
 Use clean compile as target 
+
 https://github.com/shumail12345/jenassignment/blob/master/codestability.png
 
 
@@ -44,10 +47,9 @@ https://github.com/shumail12345/jenassignment/blob/master/staticcodeana.png
 
 
 
-
-
  Choose Job type as MavenProject 
 Provide git repository
+
 https://github.com/OpsTree/ContinuousIntegration 
 Use clean compile cobertura:cobertura as target 
 https://github.com/shumail12345/jenassignment/blob/master/codecoverage.png
