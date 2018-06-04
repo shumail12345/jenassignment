@@ -37,7 +37,7 @@ Use clean compile findbugs:findbugs checkstyle:checkstyle as target
 https://github.com/shumail12345/jenassignment/blob/master/staticcodeana.png
 
 
-Setup code coverage Job
+
  Choose Job type as MavenProject 
 Provide git repository
 https://github.com/OpsTree/ContinuousIntegration 
